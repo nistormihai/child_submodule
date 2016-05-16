@@ -1,1 +1,1 @@
-console.log('child-modified');
+console.log('child-modified-2');
